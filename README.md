@@ -1,2 +1,2 @@
 # Airbnb website clone
-This is an Airbnb website clone end-to-end project.
+This is an Airbnb website  end-to-end clone project.
